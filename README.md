@@ -16,4 +16,4 @@ There will be a submit button on which you will check whether the password and c
 ### OUTPUT
 
 ![image](https://user-images.githubusercontent.com/101321941/157650525-1a7c563a-dcaf-42d8-a301-9c367920fe3e.png)
-![image](https://user-images.githubusercontent.com/101321941/157650726-605e9591-e25f-4627-a288-1c0622ff09ae.png)
+![image](https://user-images.githubusercontent.com/101321941/157661377-7cef6dd0-8bdf-42cd-9e3e-9b208e46186f.png)
